@@ -6,4 +6,4 @@
 - 💬 Ask me about anything, We'll find the solution together.
 - 📫 How to reach me: LinkedIn-[@Harshit Balodi](https://www.linkedin.com/in/harshit-balodi/)
 - ⚡ Fun fact: I love to listen classical and folk songs 
-[](https://raw.githubusercontent.com/harshitbalodi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
