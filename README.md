@@ -1,5 +1,6 @@
 ### Hola,I'm Harshit Balodi 👋
 
+- 📕 Computer Science under Grad at MSIT,Delhi
 - 🔭 I’m currently working on Movie Recommender system
 - 🌱 I’m currently learning full stack Development 
 - 👯 I’m looking to connect on LinkedIn 
