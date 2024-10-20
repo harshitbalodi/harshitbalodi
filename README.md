@@ -1,4 +1,4 @@
-### Hola,I'm Harshit Balodi 👋
+### Namskar,I'm Harshit Balodi 👋
 
 - 📕 Computer Science Graduate from MSIT,Delhi
 - 🔭 I’m currently working on my DSA and development skills
